@@ -2,7 +2,7 @@ Hello, there. I'm Jocelino, a fullstack developer.
 
 My Hoobies are reading, watching TV Shows and play some games.
 
-* :telescope: I'm finishing under degree BSc. Computer Science @ [UFS];
+* :telescope: BSc. Computer Science @ [UFS];
 * :zap: Currently I'm Open To Work;
 * :hammer: Studying TDD and Clean Code;
 
@@ -11,15 +11,17 @@ My Hoobies are reading, watching TV Shows and play some games.
 
 * Volunteer Web Developer using WordPress @ [SofTeam]
 * FullStack Developer using PHP, NodeJS and VueJS @ [Visu]
+* FullStack Developer using PHP, NodeJS and VueJS @ [Visu]
+* FullStack Developer using PHP, NodeJS, React Native (with Expo) as Freelancer
 
 
 ### Languages and Tools
 
 Languages: [JavaScript] and [TypeScript]
-Frontend Stack: [VueJS] and [Bootstrap].
+Frontend Stack: [VueJS], [Bootstrap] and [React Native / Expo].
 Backend Stack: [PHP], [Laravel] and [NodeJS].
-Databases: [MySQL].
-Tools: [Docker], [Git] and [VSCode].
+Databases: [MySQL]/MariaDB.
+Tools: [Docker], [Git], [VSCode] and [PHPStorm].
 
 
 ### Get in touch
@@ -45,6 +47,9 @@ Tools: [Docker], [Git] and [VSCode].
 [StackOverflow]: https://stackoverflow.com/users/5228535/rogue-psycho
 [UFS]: https://www.sigaa.ufs.br/sigaa/public/curso/portal.jsf?lc=pt_BR&id=320143
 [Visu]: https://visu.cc/
+[Minha Morada]: https://minhamorada.pt/
+[MM para IOS]: https://apps.apple.com/pt/developer/minha-morada/id1697310726
+[MM para Android]: https://play.google.com/store/apps/developer?id=Minha+Morada
 
 [JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [TypeScript]: https://www.typescriptlang.org/
@@ -57,6 +62,8 @@ Tools: [Docker], [Git] and [VSCode].
 [Docker]: https://docker.com
 [Git]: https://git-scm.com/
 [VSCode]: https://code.visualstudio.com/
+[React Native / Expo]: https://expo.dev/
+[PHPStorm]: https://www.jetbrains.com/phpstorm/
 
 
 [Junimo]: https://stardewvalleywiki.com/Junimos

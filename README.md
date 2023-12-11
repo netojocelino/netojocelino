@@ -4,24 +4,31 @@ Meus passatempos são ler, assistir séries e jogar alguns jogos.
 
 
 
-* :telescope: Estou finalizando o curso de Bacharelado em Ciência da Computação na @ [UFS];
+* :telescope: Bacharel em Ciência da Computação na @ [UFS];
 * :zap: Atualmente estou em busca de emprego;
 * :hammer: Estou estudando conceitos de TDD e Código Limpo;
 
 
 ### Experiências
 
-* Trabalho voluntário de desenvolvedor utilizando WordPress na [SofTeam];
+* Trabalho voluntário de desenvolvedor e gerente de projetos para web utilizando WordPress na [SofTeam];
 * Desenvolvedor FullStack utilizando PHP, NodeJS e VueJS na [Visu]
-
+* Desenvolvedor FullStack utilizando PHP na [Minha Morada]
+  - [MM para IOS]
+  - [MM para Android]
+* Desenvolvedor FullStack utilizando PHP, NodeJS, React Native (com Expo) como Freelancer
 
 ### Linguagens e Ferramentas
 
 Linguagens: [JavaScript] e [TypeScript]
-Para Frontend: [VueJS] e [Bootstrap].
+
+Para Frontend: [VueJS], [Bootstrap] e [React Native / Expo].
+
 Para Backend: [PHP], [Laravel] e [NodeJS].
-Banco de Dados: [MySQL].
-Ferramentas: [Docker], [Git] e [VSCode].
+
+Banco de Dados: [MySQL]/MariaDB.
+
+Ferramentas: [Docker], [Git], [VSCode] e [PHPStorm].
 
 
 ### Me encontre nas redes
@@ -48,6 +55,9 @@ Ferramentas: [Docker], [Git] e [VSCode].
 [StackOverflow]: https://stackoverflow.com/users/5228535/rogue-psycho
 [UFS]: https://www.sigaa.ufs.br/sigaa/public/curso/portal.jsf?lc=pt_BR&id=320143
 [Visu]: https://visu.cc/
+[Minha Morada]: https://minhamorada.pt/
+[MM para IOS]: https://apps.apple.com/pt/developer/minha-morada/id1697310726
+[MM para Android]: https://play.google.com/store/apps/developer?id=Minha+Morada
 
 [JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [TypeScript]: https://www.typescriptlang.org/
@@ -60,6 +70,8 @@ Ferramentas: [Docker], [Git] e [VSCode].
 [Docker]: https://docker.com
 [Git]: https://git-scm.com/
 [VSCode]: https://code.visualstudio.com/
+[React Native / Expo]: https://expo.dev/
+[PHPStorm]: https://www.jetbrains.com/phpstorm/
 
 
 [Junimo]: https://stardewvalleywiki.com/Junimos
